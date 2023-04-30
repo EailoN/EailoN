@@ -72,11 +72,10 @@
 
 ## Benimle İletişime Geçmek İçin
 <div align="center">
-<a href="https://github.com/EailoN" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://github.com/EailoN" target="_blank">Github
 </a>  
 <a href="https://discord.gg/vAGBrcJwx3" target="_blank">
-<img src=https://www.webopedia.com/wp-content/uploads/2021/08/Discord-LogoWordmark-Color.png alt=discord style="margin-bottom: 5px;, width: 10px, height: 5px" />
+Discord
 </a>  
 </div>  
   
@@ -112,4 +111,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center"><a href="https://eailon.tk/" target="_blank">Buraya</a> Tıklayarak websiteme göz atabilirsin</div>
