@@ -22,7 +22,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Alanlarım 
 <table><tr><td valign="top" width="33%">
 
 
@@ -70,7 +70,7 @@
 <br/>  
 
 
-## Connect with me  
+## Benimle İletişime Geçmek İçin
 <div align="center">
 <a href="https://github.com/EailoN" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -84,13 +84,13 @@
 <br/>  
 
 
-## Github Stats  
+## Github İstatistikleri  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=EailoN&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 
-## Recent Blog Posts  
+## Blog Paylaşımları  
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
