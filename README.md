@@ -22,7 +22,7 @@
 <br/>  
 
 
-## Alanlarım 
+## İlgilendiğim Alanlar 
 <table><tr><td valign="top" width="33%">
 
 
@@ -76,7 +76,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
 <a href="https://discord.gg/vAGBrcJwx3" target="_blank">
-<img src=https://www.webopedia.com/wp-content/uploads/2021/08/Discord-LogoWordmark-Color.png alt=discord style="margin-bottom: 5px;" />
+<img src=https://www.webopedia.com/wp-content/uploads/2021/08/Discord-LogoWordmark-Color.png alt=discord style="margin-bottom: 5px;, width: 10px, height: 5px" />
 </a>  
 </div>  
   
