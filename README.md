@@ -88,18 +88,6 @@ Discord
 
 <br/>  
 
-
-## Blog Paylaşımları  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=EailoN&&style=flat-square" align="center" />
 </div>  
