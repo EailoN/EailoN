@@ -1,4 +1,4 @@
-##<div align="center">Ben Eailon, Yaklaşık 7 yıldır yazılımla ilgileniyorum. Aşağıda uğraştığım bazı alanlar bulunmakta.</div>  
+### <div align="center">Selam, Ben Eailon! Yaklaşık 7 yıldır yazılımla ilgileniyorum. Aşağıda uğraştığım bazı alanlar bulunmakta.</div>  
   
 
 - 🤖 Discord Botları  
