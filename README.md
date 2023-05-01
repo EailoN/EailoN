@@ -16,7 +16,7 @@
 - 🕹Oyun Launcherları  
   
 
-- 🚀Hobi Olarak Aviyonik Sistemler Üzerinde Çalışmalar Yapmaktayım (Roket sistemleri favorilerim :))  
+- 🚀Hobi Olarak Aviyonik Sistemler Üzerinde Çalışmalar Yapmaktayım  
   
 
 <br/>  
@@ -67,8 +67,7 @@
 
 </td></tr></table>  
 
-<br/>  
-
+<br/>
 
 <div align="center" dir="auto">
 <a href="https://github.com/EailoN">
@@ -84,12 +83,6 @@
 
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=EailoN&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=EailoN&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
