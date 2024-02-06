@@ -4,10 +4,10 @@
 - 🤖 Discord Botları  
   
 
-- 🌱 WebSite Zavazingoları  
+- 🌱 WebSite Zımbırtıları  
   
 
-- 🎈Minecraft Sunucu Zavazingoları (Plugin kodlama&Paket yapma)  
+- 🎈Minecraft Sunucu Zımbırtıları (Java plugin kodlama / Server paketi yapma)  
   
 
 - ⚡FiveM Sunucuları  
